@@ -1,7 +1,8 @@
 import sys
 from utils import *
 from API_KEYS import API_KEY_DIRECTIONS, API_KEY_STREETVIEW
-
+import googlemaps
+import polyline
 '''Google Street View Movie Maker
 
 Usage is:
